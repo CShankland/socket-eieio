@@ -1,0 +1,16 @@
+{
+    "name": "SocketTest",
+    "description": "A feasibility test for ws",
+    "version": "0.0.1",
+    "author": {
+        "name": "Christopher Shankland",
+        "email": "shankland@bigvikinggames.com"
+    },
+    "bin": "./sockettest.js",
+    "dependencies": {
+        "ws": "0.4.23",
+        "msgpack": "0.1.7",
+        "socket.io": "0.9.10"
+    },
+    "private": true
+}
